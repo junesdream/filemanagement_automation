@@ -1,0 +1,3 @@
+City: Berlin, Temperature: 23.80521847915314°C, Humidity: 33%
+City: Munich, Temperature: 8.954972402736699°C, Humidity: 50%
+City: Hamburg, Temperature: 4.791058864488868°C, Humidity: 90%

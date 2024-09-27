@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Berlin",
+        "temperature": 5.61349358995178,
+        "humidity": 74
+    },
+    {
+        "city": "Munich",
+        "temperature": 26.262231167855955,
+        "humidity": 93
+    },
+    {
+        "city": "Hamburg",
+        "temperature": 3.7550737696601146,
+        "humidity": 91
+    }
+]
