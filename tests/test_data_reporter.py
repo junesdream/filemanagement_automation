@@ -1,6 +1,9 @@
-import unittest
+import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from data_reporter import DataReporter
+import unittest
 
 class TestDataReporter(unittest.TestCase):
     def test_generate_report(self):
