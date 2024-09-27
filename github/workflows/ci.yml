@@ -27,6 +27,6 @@ jobs:
 
     - name: Run Tests
       env:
-        PYTHONPATH: ${{ github.workspace }}  # Set the project root as PYTHONPATH
+        PYTHONPATH: ${{ github.workspace }}
       run: |
         python -m unittest discover -s tests

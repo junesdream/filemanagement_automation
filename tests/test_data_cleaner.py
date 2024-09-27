@@ -2,7 +2,6 @@ import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-# Danach kannst du die Module wie gewohnt importieren:
 from data_cleaner import DataCleaner
 import unittest
 class TestDataCleaner(unittest.TestCase):
